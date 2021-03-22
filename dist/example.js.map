@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/example.js"],"names":["getData","data"],"mappings":";;AAAA,IAAMA,UAAU,SAAVA,OAAU,GAAM;AACpB,MAAMC,OAAO,CAAC,CAAD,EAAI,CAAJ,EAAO,CAAP,CAAb;AACA,SAAOA,IAAP;AACD,CAHD","file":"example.js","sourcesContent":["const getData = () => {\r\n  const data = [1, 2, 3];\r\n  return data;\r\n};\r\n"]}
