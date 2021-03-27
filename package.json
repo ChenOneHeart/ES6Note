@@ -32,8 +32,9 @@
     "babelify": "^8.0.0"
   },
   "scripts": {
-    "build": "babel index.js -o dist/index.js",
+    "build": "babel index.js -o lib/index.js",
     "index": "babel-node index.js",
+    "dev":"start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "browserify": {
